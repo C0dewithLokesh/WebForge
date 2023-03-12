@@ -4,7 +4,7 @@
  
  This is a simple website built using React and SCSS.
  
- <a href="https://webforge.vercel.app/"><strong>➥ Live Demo</strong></a>
+ <a href="https://webforge.vercel.app/" target="_blank"><strong>➥ Live Demo</strong></a>
  </div>
  
  ### Demo Screeshots
